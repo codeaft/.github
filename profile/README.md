@@ -15,5 +15,5 @@ Founder and Architect
 
 <img src="https://raw.githubusercontent.com/codeaft/codeaft.github.io/master/assets/images/advertise.png">
 
-[cidzzegt]: https://codeaft.com
-[cidaekky]: https://codeaft.com/shubhamrdarda
+[cidzzegt]: https://codeaft.github.io
+[cidaekky]: https://codeaft.github.io/shubhamrdarda
